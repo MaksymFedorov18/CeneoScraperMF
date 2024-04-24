@@ -1,0 +1,28 @@
+[
+    {
+        "opinion_id": "16059959",
+        "author": "i...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "Approx",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-05-09 12:46:31",
+        "purchase_date": "2022-05-02 19:36:03"
+    },
+    {
+        "opinion_id": "15939339",
+        "author": "m...7",
+        "recommendation": false,
+        "score": 0.1,
+        "content": "Epic fail",
+        "pros": [],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 2,
+        "publish_date": "2022-04-08 22:38:15",
+        "purchase_date": "2022-03-22 09:39:25"
+    }
+]
